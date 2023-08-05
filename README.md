@@ -8,4 +8,4 @@ Inscription: https://ordiscan.com/content/4a8222e2eb5c9988c496c706b373c79322359e
 
 Unzip your Gzip file using querystring: /content/4a8222e2eb5c9988c496c706b373c79322359e4cf357e33e11ac55b171f6916ai0**?q=$id**
 
-Load a javascript to blob using querysting: /content/4a8222e2eb5c9988c496c706b373c79322359e4cf357e33e11ac55b171f6916ai0**?j=$id**
+Load a compressed javascript to blob using querysting: /content/4a8222e2eb5c9988c496c706b373c79322359e4cf357e33e11ac55b171f6916ai0**?j=$id**
